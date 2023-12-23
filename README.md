@@ -1,3 +1,15 @@
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=olegantonyan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=olegantonyan&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=olegantonyan&show_icons=true" />
+</picture>
+
 [LinkedIn](https://www.linkedin.com/in/oleg-antonyan-2b715089/), [StackOverflow](https://stackoverflow.com/users/1837084/oleg-antonyan), [Blog](https://undefined-reference.org/), [AngelList](https://wellfound.com/u/oleg-antonyan)
 
 <picture>
