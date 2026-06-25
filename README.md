@@ -1,6 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/oleg-antonyan-2b715089/), [StackOverflow](https://stackoverflow.com/users/1837084/oleg-antonyan), [Blog](https://undefined-reference.org/), [AngelList](https://wellfound.com/u/oleg-antonyan)
 
-Build and distribute Linux packages easily with [omnipackage](https://github.com/omnipackage)
+Build and distribute Linux packages easily with [omnipackage](https://omnipackage.org)
+Listen music with [mpz](https://mpz-player.org/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olegantonyan/olegantonyan/output/github-contribution-grid-snake-dark.svg" />
