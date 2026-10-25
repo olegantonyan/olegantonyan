@@ -4,6 +4,8 @@ Build and distribute Linux packages easily with [omnipackage](https://omnipackag
 
 Listen music with [mpz](https://mpz-player.org/)
 
+Codecs for openSUSE [aka packman-nova](https://packman.omnipackage.org)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olegantonyan/olegantonyan/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olegantonyan/olegantonyan/output/github-contribution-grid-snake.svg" />
